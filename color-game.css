@@ -1,0 +1,25 @@
+.container{
+  text-align: center;
+  background-color: skyblue;
+  color: white;
+  margin-bottom: 10px;
+}
+.square-container{
+ max-width: 500px;
+  margin: 0 auto;
+}
+.square{
+  width: 30%;
+ height: 110px;
+  margin: 1.66px;
+  float: left;
+  background-color: rebeccapurple;
+  border-radius: 20%;
+}
+.sub-heading{
+  display: flex;
+  justify-content: space-around;
+  background-color: yellow;
+  color: purple;
+  
+}
